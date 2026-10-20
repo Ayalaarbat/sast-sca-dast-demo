@@ -3,3 +3,9 @@ venv-audit/
 __pycache__/
 zap_reports/
 audit.json
+
+.venv-tests/
+
+# Python coverage reports
+.coverage
+coverage.xml
